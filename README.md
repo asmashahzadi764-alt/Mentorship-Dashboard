@@ -50,6 +50,15 @@ Mentorship-Dashboard
 ```
 
 ---
+---
+
+## 📸 Project Preview
+
+![Dashboard Preview](docs/project-preview.png)
+
+> *Screenshot shows the clean dashboard layout and card-based UI.*
+
+---
 
 ## 🎨 Design Focus
 
