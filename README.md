@@ -1,8 +1,8 @@
-# 📌 Mentorship Dashboard UI
+# 📌 Practice Assignment
 
 ## 📖 Project Overview
 
-This project is a responsive Mentorship Dashboard interface developed using pure HTML and CSS as part of my frontend learning journey. The dashboard represents a structured user interface where mentorship activities can be monitored and different platform features can be accessed.
+This is a practice assignment  interface developed using pure HTML and CSS as part of my frontend learning journey. The dashboard represents a structured user interface where mentorship activities can be monitored and different platform features can be accessed.
 
 This project focuses on understanding modern UI design concepts, layout structuring, and writing maintainable CSS.
 
@@ -43,7 +43,7 @@ The main goal of this project was to practice and improve my frontend developmen
 ## 📂 Project Structure
 
 ```
-Mentorship-Dashboard
+Practice Assignment
 │
 ├── index.html
 ```
